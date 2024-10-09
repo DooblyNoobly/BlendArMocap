@@ -1,3 +1,0 @@
-[submodule "src/cgt_socket_ipc/BlendPyNet"]
-	path = src/cgt_socket_ipc/BlendPyNet
-	url = git@github.com:cgtinker/BlendPyNet.git
